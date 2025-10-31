@@ -2,7 +2,7 @@
 
 Integrantes: Alonso Maurel, Monserrath Morales, Felipe Núñez
 
-## Descripocion
+## Descripción
 
 Gestor de empresa telefónica que permite:
 
