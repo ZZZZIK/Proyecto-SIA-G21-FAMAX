@@ -21,7 +21,7 @@ Gestor de empresa telefónica que permite:
 3. Asegúrate de tener instalado:
   - Java JDK 8 o superior
   - Maven
-  - 
+
 4. Ejecuta el proyecto desde el archivo Main.java ubicado en:
 src/main/java/com/mycompany/proyectosia/Main.java
 
